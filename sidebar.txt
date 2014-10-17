@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpw:home|Door43 (mpw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpw|d43-mpw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpw/archive/master.zip|d43-mpw.zip]]
+
+**Recent Changes**
+{{changes>ns = mpw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpw|Ethnologue data]]
+
